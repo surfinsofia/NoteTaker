@@ -1,6 +1,7 @@
 const express = require ('express');
-const PORT = process.env.PORT || 3001;
 const app = express();
+const PORT = process.env.PORT || 3000;
+
 const apiRoute = require ('./routes/APIroute');
 const htmlRoute = require ('./routes/HTMLroute');
 
@@ -15,8 +16,6 @@ app.use('/', htmlRoute);
 
 
 
-
-
 app.listen(PORT, () => {
     console.log(`API server is now on ${PORT}`)
-})
+});
