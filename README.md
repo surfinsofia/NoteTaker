@@ -36,4 +36,8 @@
   Reach me with questions by email:
   asofiae96@gmail.com
   
-  
+  Link to deployed application:
+  https://notetakerh.herokuapp.com/
+
+  ![screenshot](./public/assets/screenshot.png))
+
