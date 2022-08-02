@@ -39,5 +39,5 @@
   Link to deployed application:
   https://notetakerh.herokuapp.com/
 
-  ![screenshot](./public/assets/screenshot.png))
+  ![screenshot](./public/assets/screenshot.png)
 
